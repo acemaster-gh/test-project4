@@ -12,10 +12,13 @@ vanilla
 
 
 ## Live Demo
-not-deployed
+https://fancy-phoenix-c9334e.netlify.app
 
 ## Repo
-pending
+[0;36m[....] [1mCreating GitHub repo...[0m
+[0;32m[OK][0m    GitHub repo created: https://github.com/acemaster-gh/test-project4
+[0;32m[OK][0m    Initial commit pushed.
+https://github.com/acemaster-gh/test-project4
 
 ## Built With
 - HTML
